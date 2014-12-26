@@ -1,0 +1,12 @@
+{
+  "name": "basic-button",
+  "repository": "git@github.com:CKUpdate/basic-button.git",
+  "version": "0.0.1",
+  "dependencies": {
+    "basic-element": "CKUpdate/basic-element#master"
+  },
+  "keywords": [
+    "web-components",
+    "flatten"
+  ]
+}
